@@ -53,7 +53,7 @@ streamlit run app.py
 
 🔗 Live Demo: https://agriguard-lza7xg2au8seuc9fm4gcfs.streamlit.app/
 
-📂 GitHub Repository: 
+📂 GitHub Repository: https://github.com/kushleshMishra/Agriguard.git
 
 ## 📢 Connect With Me
 
