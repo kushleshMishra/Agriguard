@@ -1,9 +1,7 @@
 streamlit
+tensorflow-cpu==2.15.0
+numpy<2.0
+pillow
 pandas
-numpy
 matplotlib
 scikit-learn
-tensorflow
-keras
-opencv-python
-scipy
